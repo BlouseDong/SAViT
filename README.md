@@ -11,7 +11,7 @@ We train and evaluate our methods on FSC-147 dataset. Please follow the FSC-147 
 ## Best Training Weights
 you can download the weight from the following Baidu link:
 *[baidu](https://pan.baidu.com/s/1nAa8vIkT2KnU9hWPnS6kug) 
-*[Extract code]2233
+Extract code: 2233
 
 ## Test
 
